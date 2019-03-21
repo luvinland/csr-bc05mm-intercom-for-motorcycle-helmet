@@ -33,3 +33,5 @@ CSR Intercom function software solution for motorcycle helmet based on the CSR B
 #define SEHWA_TEST
 #define SINPUNG_DONGLE
 ```
+
+![HSB-R100_Product_detail_01](https://user-images.githubusercontent.com/26864945/54742176-f9bc7080-4c03-11e9-84be-20a9291074ca.jpg)

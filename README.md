@@ -4,7 +4,8 @@ CSR Bluetooth Intercom function software solution for motorcycle helmet based on
 ## Overview
 * Bluetooth v2.1
 * Bluetooth Headset for Motorcycle Helmet.
-* HBS-S100, R100(Voice Detection), Z100(Class 1) series.
+* HBS-S100, R100 (Voice Detection), Z100 (Class 1) series.
+* Sold 2009 - 2012.
 
 ## Defined
 * HBS-S100

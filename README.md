@@ -1,5 +1,10 @@
 # CSR_BC05MM_INTERCOM_MOTORCYCLE_HELMET
-CSR Intercom function software solution for motorcycle helmet based on the CSR BC05MM SOCs with Stereo-Headset-SDK Q3-2007.RC3.1.
+CSR Bluetooth Intercom function software solution for motorcycle helmet based on the CSR BC05MM SOCs with Stereo-Headset-SDK Q3-2007.RC3.1.
+
+## Overview
+* Bluetooth v2.1
+* Bluetooth Headset for Motorcycle Helmet.
+* HBS-S100, R100(Voice Detection), Z100(Class 1) series.
 
 ## Defined
 * HBS-S100
